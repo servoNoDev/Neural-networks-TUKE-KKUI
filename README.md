@@ -16,21 +16,21 @@ The subject information sheet is available [here](materials/nn_uni_info.png).
 (list of materials will be published soon)
 
 ### Timetable
-| **Week** | **Date**  | **Time** | **Room** | **Topic**                                                                           | **Notes**                   |
-|----------|-----------|----------|----------|-------------------------------------------------------------------------------------|-----------------------------|
-| 01       | 13.2.2024 | 13:30    | L9-502   | Welcome message, repetition                                                         | Book pages: 11-50           |
-| 02       | 20.2.2024 | 13:30    | L9-502   | Fundamentals of aperceptron neural network learning                                 | Book pages: 51-77           |
-| 03       | 27.2.2024 | 13:30    | L9-502   | Delta rule, backpropagation algorithm, unsupervised learning method                 | Book pages: 77-118, 140-161 |
-| 04       | 5.3.2024  | 13:30    | L9-502   | Convolutional neural networks (CNN), forward propagation of the information signal. | Book pages: 165-190         |
-| 05       | 12.3.2024 |          |          | Free                                                                                |                             |
-| 06       | 19.3.2024 | 13:30    | Teams    | Consultations                                                                       | With prof. Sincak           |
-| 07       | 26.3.2024 | 13:30    | Teams    | Consultations                                                                       |                             |
-| 08       | 2.4.2024  | 13:30    |          | Free (public holiday)                                                               | With prof. Sincak           |
-| 09       | 9.4.2024  |          | Teams    | Consultations                                                                       | With prof. Sincak           |
-| 10       | 16.4.2024 | 13:30    |          | Free                                                                                |                             |
-| 11       | 23.4.2024 | 13:30    | L9-502   | Convolutional neural networks (CNN), adaptation of parameters                       | Book pages: 190-211         |
-| 12       | 30.4.2024 | 13:30    | L9-502   | Recurrent neural networks (RNN), LSTM, transformers                                 |                             |
-| 13       | 7.5.2024  | 13:30    | L9-502   | Conclusion                                                                          |                             |
+| **Week** | **Date**  | **Time** | **Room**    | **Topic**                                                                           | **Notes**                   |
+|----------|-----------|----------|-------------|-------------------------------------------------------------------------------------|-----------------------------|
+| 01       | 13.2.2024 | 13:30    | N9-201(ZP1) | Welcome message, repetition                                                         | Book pages: 11-50           |
+| 02       | 20.2.2024 | 13:30    | N9-201(ZP1) | Fundamentals of aperceptron neural network learning                                 | Book pages: 51-77           |
+| 03       | 27.2.2024 | 13:30    | N9-201(ZP1) | Delta rule, backpropagation algorithm, unsupervised learning method                 | Book pages: 77-118, 140-161 |
+| 04       | 5.3.2024  | 13:30    | N9-201(ZP1) | Convolutional neural networks (CNN), forward propagation of the information signal. | Book pages: 165-190         |
+| 05       | 12.3.2024 |          |             | Free                                                                                |                             |
+| 06       | 19.3.2024 | 13:30    | Teams       | Consultations                                                                       | With prof. Sincak           |
+| 07       | 26.3.2024 | 13:30    | Teams       | Consultations                                                                       |                             |
+| 08       | 2.4.2024  | 13:30    |             | Free (public holiday)                                                               | With prof. Sincak           |
+| 09       | 9.4.2024  |          | Teams       | Consultations                                                                       | With prof. Sincak           |
+| 10       | 16.4.2024 | 13:30    |             | Free                                                                                |                             |
+| 11       | 23.4.2024 | 13:30    | N9-201(ZP1) | Convolutional neural networks (CNN), adaptation of parameters                       | Book pages: 190-211         |
+| 12       | 30.4.2024 | 13:30    | N9-201(ZP1) | Recurrent neural networks (RNN), LSTM, transformers                                 |                             |
+| 13       | 7.5.2024  | 13:30    | N9-201(ZP1) | Conclusion                                                                          |                             |
 
 
 ## Labs
