@@ -8,7 +8,13 @@ The subject information sheet is available [here](materials/nn_uni_info.png).
 [//]: # (## Contact of members)
 
 
+## Rating
+The total evaluation of the subject is 100 points (40 + 60 points); the student must obtain more than half of the points in both the credit and the exam. **Participation in lectures and exercises is mandatory!**
 
+### Assignments
+During the semester, each student submits four assignments:
+1. [Create video about Neural Networks (10b) - click here for more info](materials/assigment_1.md)
+2. [Team project (30b) - click here for more info](materials/assigment_2.md)
 
 ## Lectures 
 
