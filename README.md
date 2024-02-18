@@ -42,7 +42,8 @@ During the semester, each student submits four assignments:
 ## Labs
 
 ### Materials
-(published soon)
+- [ML algorithms from Scratch](https://github.com/patrickloeber/MLfromscratch)
+- [PyTorch course](https://github.com/patrickloeber/pytorchTutorial)
 
 ### Timetable
 
