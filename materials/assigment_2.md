@@ -52,7 +52,7 @@ Max 10 minutes per team + 5 minutes question section
 | prof. Ing. Peter Sinčák, CSc. | peter.sincak@tuke.sk             | Dad of AI, Deeper and deeper                         |
 | Ing. Ján Magyar, PhD.         | jan.magyar@tuke.sk               | Deep neural networks, reinforcement learning         |
 | Ing. Martina Szabóová, PhD    | martina.szaboova@tuke.sk         | Deep neural networks, NLP, LLM                       |
-| Ing. Radovan Kavický          | radovan.kavicky@student.tuke.sk  |                                                      |
+| Ing. Radovan Kavický          | radovan.kavicky@student.tuke.sk  | Explainable AI (xAI), DL & ML, Bayes ⛔️ dead (yet)!  |
 | Ing. Maroš Stredanský         | maros.stredansky@student.tuke.sk |                                                      |
 | Bc. Ján Šverha                | jan.sverha@student.tuke.sk       | GAN, LLM, medical image processing                   |
 | Bc. Martin Katona             | martin.katona@student.tuke.sk    | Capsule networks                                     |
