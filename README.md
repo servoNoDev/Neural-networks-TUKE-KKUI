@@ -42,8 +42,12 @@ During the semester, each student submits four assignments:
 ## Labs
 
 ### Materials
-- [ML algorithms from Scratch](https://github.com/patrickloeber/MLfromscratch)
-- [PyTorch course](https://github.com/patrickloeber/pytorchTutorial)
+* [ML algorithms from Scratch](https://github.com/patrickloeber/MLfromscratch)
+* [PyTorch course](https://github.com/patrickloeber/pytorchTutorial)
+* [Java Neural Network Simulator](http://www.ra.cs.uni-tuebingen.de/software/JavaNNS/welcome_e.html?fbclid=IwAR3abC_9BxqT_dxwxxD5Qq8uzBY9sIUcnm2_d36JHIrx1k2i4Y1DBm-bVEA)
+* [Online Perceptron Training](https://www.cs.utexas.edu/~teammco/misc/perceptron/?fbclid=IwAR1qWNnD9VUoORzx5y0H7_lqo028lquC_B00CCsQelNAInh6GSelRM6YYTQ)
+* [Principles of training multi-layer neural network using backpropagation](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+* [The Back Propagation Algorithm](lectures/The_Back_Propagation_Algorithm.pdf)
 
 ### Timetable
 
@@ -52,7 +56,7 @@ During the semester, each student submits four assignments:
 | 01       | 12.2.2024 | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | Introduction, PyTorch basics            |                                      |
 | 02       | 19.2.2024 | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | Linear regression (PyTroch)             |                                      |
 | 03       | 26.2.2024 | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | Backpropagation                         | Homework - Linear regression (NumPy) |
-| 04       | 4.3.2024  | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | Logistic regression, Data visualization |                                      |
+| 04       | 4.3.2024  | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | Logistic regression | Homework - Logistic regression (Lab) |
 | 05       | 11.3.2024 | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | MLP                                     |                                      |
 | 06       | 18.3.2024 | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | CNN 1                                   |                                      |
 | 07       | 25.3.2024 | 7:30, 9:10, 10:50 | PK6_105, PK6_108, PK6_108 | CNN 2                                   |                                      |
